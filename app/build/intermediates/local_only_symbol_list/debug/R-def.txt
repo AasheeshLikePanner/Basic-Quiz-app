@@ -1,0 +1,36 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable bg
+drawable black
+drawable correctselection
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable selectedbox
+drawable textviewbox
+drawable trophy
+drawable tshirt2
+drawable wrongselection
+id TextBox
+id img
+id main
+id option1
+id option2
+id option3
+id option4
+id progressBar
+id progressText
+id questionHeading
+id start_button
+id sumbit
+layout activity_main
+layout activity_question_page
+layout activity_result
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.QUIZZ
+style Theme.QUIZZ
+xml backup_rules
+xml data_extraction_rules
